@@ -1,6 +1,6 @@
 ---
 applications:
- - name: DRAS_TWEET_ANALYZER_APP
+ - name: DRAS_TWEET_ANALYZER_APP_2
    random-route: true
    memory: 256M
    buildpack: https://github.com/cloudfoundry/python-buildpack.git
